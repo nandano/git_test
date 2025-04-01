@@ -1,2 +1,5 @@
 I am testing if github works 
 on my linux system
+
+Checking if vs code was set as the default
+git commit message editor
